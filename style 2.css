@@ -1,0 +1,235 @@
+.main2{
+    background-color: rgba(255, 255, 255, 0.863);
+    padding: 10px;
+    display: flex;
+}
+.sixth{
+    width: 191px;
+    height: 52px;
+    margin-right: 250px;
+    margin-left: 50px;
+}
+.button{
+     background-color: royalblue;
+     color: white;
+     padding: 5px;
+     border: 2px solid royalblue;
+     border-radius: 10px;
+     margin-left: 3px;
+margin-bottom: 20px;
+cursor: pointer;
+}
+.headpic{
+    width:1300px;
+    height:350px;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+
+}
+.paragraph{
+    text-align: center;
+    font-size: 30PX;
+    background-color: rgba(245, 245, 245, 0.918);
+    width: 103%;
+    
+    
+}
+.man2{
+    background-color: rgba(245, 245, 245, 0.918);
+    width: 103%;
+}
+.intrologo{
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+margin-top: -15px;
+width: 50px;
+height: 50px;
+}
+.paragraph2{
+    line-height: 2.2em ;
+    text-align: center,justify;
+    text-justify: inter-word;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 150px;
+margin-right: 200px;    
+}
+.paragraph3{
+    line-height: 2.2em ;
+    text-align: center,justify;
+    text-justify: inter-word;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 150px;
+margin-right: 200px;    
+}
+.paragraph4{
+    line-height: 2.2em ;
+    text-align: center,justify;
+    text-justify: inter-word;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 150px;
+margin-right: 200px;    
+}
+.paragraph5{
+    line-height: 2.2em ;
+    text-align: center,justify;
+    text-justify: inter-word;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 150px;
+    margin-right: 150px;    
+}
+.mani{
+    background-color: rgba(245, 245, 245, 0.918);
+    width: fit-content;
+    
+}
+.p{
+color: green;
+}
+.p1{
+    color:royalblue;
+}
+    .mani1{
+background-color: blue;
+padding: 60px;
+margin-top: -12px;
+margin-right: -40px;
+margin-left: -20px;
+display: flex;
+
+    }
+    .food{
+        width: 80px;
+        height: 80px;
+        margin-left: 50px;
+        }
+    
+.man{
+    background-color: rgba(245, 245, 245, 0.918);
+    width: 104%;
+}
+.paragraph6{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1.5em;
+    margin-left: -2.3em;
+    margin-right: 1em;
+
+
+}
+.paragraph7{
+    color: white;
+font-size: 19px;
+margin-top: 7em;
+margin-left: -11em;
+}
+.p2{
+    color: greenyellow;
+  
+
+}
+.tenth{
+    
+        width: 80px;
+        height: 80px;
+       margin-left:100px ;
+        margin-bottom: 20px;
+     margin-top: -5px;
+    
+    
+}
+
+.paragraph8{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1.5em;
+ margin-left: -90px;
+ margin-right: 1em;
+
+
+}
+.paragraph9{
+    color: white;
+font-size: 19px;
+margin-top: 7em;
+margin-left: -10em;
+}
+.paragraph10{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1.5em;
+ margin-left: -100px;
+ margin-right: 1em;
+
+
+}
+.paragraph11{
+    color: white;
+font-size: 19px;
+margin-top: 7em;
+margin-left: -9em;
+}
+.eleventh{
+    
+    width: 80px;
+    height: 80px;
+   margin-left:150px ;
+    margin-bottom: 20px;
+ margin-top: -5px;
+ margin-right: -20px;
+
+
+}
+.paragraph12{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1.5em;
+ margin-left: -100px;
+ margin-right: 1em;
+
+
+}
+.paragraph13{
+    color: white;
+font-size: 19px;
+margin-top: 7em;
+margin-left: -9em;
+}
+.paragraph14{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgba(245, 245, 245, 0.918);
+    width: 103%;
+    
+    
+}
+.mani4{
+    background-color: rgba(245, 245, 245, 0.918);
+ 
+    padding: 10px;
+}
+.man3{
+    background-color: rgba(245, 245, 245, 0.918);
+    width: 103%;
+}
+.twelth{
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+margin-top: -30px;
+width: 50px;
+height: 50px;
+}
+
+
+
+
