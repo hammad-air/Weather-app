@@ -1,388 +1,197 @@
-.main{
-    background-color: rgba(69, 69, 241, 0.822);
-    padding: 10px;
-    width: 102%;
-    margin-left: -5px;
-    margin-top: -8px;
-    }
-    .facebook{
-        width: 25px;
-        height: 25px;
-        margin-left: 50px;
-       cursor: pointer;
-    }
-    .twitter{
-        width: 25px;
-        height: 25px;
-        margin-left: 15px;
-        cursor: pointer;
-    }
-    .instagram{
-        width: 30px;
-        height: 30px;
-        margin-left: 15px;
-        cursor: pointer;
-     margin-bottom: -2px;
-    }
-    .youtube{
-        width: 25px;
-        height: 25px;
-        margin-left: 15px;
-        cursor: pointer;
-    }
-    .whatsapp{
-        width: 25px;
-        height: 25px;
-        margin-left: 15px;
-        cursor: pointer;
-    }
-    .set{
-        display: inline;
-        color: white;
-       margin-left: 125px;
-       vertical-align: 5px;
-       font-family: Arial, Helvetica, sans-serif;
-       font-size: 15px;
-    }
-    .s1{
-        vertical-align: 5px;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 12px;
-        color: gray;
-        display: inline-block;
-        padding: 4px;
-        margin: auto;
-        margin-left: 100px;
-        cursor: pointer;
-        
-    }
-    .s2{
-        vertical-align: 5px;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 12px;
-        color: gray;
-        display: inline-block;
-        padding: 4px;
-        margin: auto;
-        margin-left: 4px;
-        cursor: pointer;
-        
-    }
-    .s3{
-        vertical-align: 5px;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 12px;
-        color: gray;
-        display: inline-block;
-        padding: 4px;
-        margin: auto;
-        margin-left: 4px;
-        cursor: pointer;
-        
-    }
-    .man4{
-    
-        width: 33.33%;
-     padding: 15px;
-      background-color: white;
-      box-shadow: 10px 10px 40px grey;
-    margin-top: 20px;
-    margin-right: 2em;
-    
-    }
-    .man5{
-        width: 33.33%;
-        padding: 15px;
-        background-color: white;
-        box-shadow: 10px 10px 40px grey;
-       margin-top: 20px;
-       margin-right: 2em;
-    }
-    .man6{
-        width: 33.33%;
-        padding: 15px;
-        background-color: white;
-        box-shadow: 10px 10px 40px grey;
-       margin-top: 20px;
-       margin-right: 2em;
-    
-    }
-    .thirteenth{
-        margin-left: 9em;
-        margin-bottom: -5em;
-        width: 70px;
-        height: 70px;
-        box-shadow: rgb(199, 196, 196);
-        cursor: pointer;
-        
-    }
-    .fourteenth{
-        margin-left: 10em;
-        margin-bottom: -5em;
-        width: 70px;
-        height: 70px;
-        margin-left: 10em;
-        cursor: pointer;
-      
-    
-    }
-    .paragraph15{
-        color: blue;
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 22px;
-      margin-top: 90px;
-        margin-left: 3.8em;
-        cursor: pointer;
-        
-        
-        }
-        .paragraph16 {
-            color: blue;
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 22px;
-      margin-top: 90px;
-        margin-left: 5.5em;
-        cursor: pointer;
-     }
-     .paragraph17{
-      color: blue;
-     font-family: 'Times New Roman', Times, serif;
-    font-size: 22px;
-    margin-top: 90px;
-      margin-left: 140px;
-      cursor: pointer;
-                
-                
-                }
-     .verymain{
-     background-color: rgba(245, 245, 245, 0.918);
-    display: flex;
-    margin-left: 30px;
-    margin-right: 30px;
-    
-    
-    }
-    .verymain2{
-        background-color: rgba(245, 245, 245, 0.918);
-        display: flex;
-        margin-left: 30px;
-        margin-right: 30px;
-    }
-               
-    .paragraph18{
-        color: blue;
-       font-family: 'Times New Roman', Times, serif;
-      font-size: 22px;
-      margin-top: 90px;
-        margin-left: 130px;
-        cursor: pointer;
-    }
-    .verymain3{
-    
-    display: flex;
-    margin-left: 30px;
-    margin-right: 30px;
-    
-    
-    
-    }
-    .heading{
-        color: royalblue;
-        margin-left: 30px;
-        font-size: 25px;
-        background-color: white;
-        margin-top: 3em;
-    }
-    .nineteenth{
-        height: 30px;
-        width: 30px;
-        margin-top: 10px;
-        float: left;
-        margin-left: 20px;
-        cursor: pointer;
-        
-    }
-    .twenteeth{
-        margin-left: 6em;
-        margin-bottom: 1em;
-        color: royalblue;
-        cursor: pointer;
-    
-        
-    }
-    .heading2{
-        width: 23%;
-        height: 50px;
-      background-color: whitesmoke;
-    
-    margin-top: 20px;
-    margin-right: 2em;
-    }
-    .twenty{
-        height: 30px;
-        width: 30px;
-        margin-top: 0.4em;
-        float: left;
-        margin-left: 20px;
-        cursor: pointer;
-    }
-    .heading3{
-        width: 23%;
-         background-color: whitesmoke;
-        
-       margin-top: 20px;
-       margin-right: 2em;
-          
-    }
-    .twenty1{
-        margin-left: 6em;
-        margin-bottom: 1em;
-        padding: 1px;
-        color: royalblue;
-        cursor: pointer;
-    }
-    
-    .verymain4{
-    
-        display: flex;
-        margin-left: 30px;
-        margin-right: 30px;
-     }
-     .twenty2{
-        height: 25px;
-        width: 40px;
-        margin-top: 12px;
-        float: left;
-        margin-left: 20px;
-        cursor: pointer;
-    
-    }
-    .twenty3{
-        margin-left: 6em;
-        margin-bottom: 1em;
-        color: royalblue;
-        cursor: pointer;
-    }
-    .twenty4{
-        height: 40px;
-        width: 30px;
-        margin-top: 0.4em;
-        float: left;
-        margin-left: 30px;
-        cursor: pointer;
-    }
-    .twenty5{
-        margin-left: 6em;
-        margin-bottom: 1em;
-        padding: 1px;
-        color: royalblue;
-        cursor: pointer;
-        }
-        .veryverymain{
-            background-color: white;
-        }
-        .heading4{
-            margin-left: 35em;
-            color: royalblue;
-        }
-        .heading5{
-         text-align: justify;
-         margin-left: 40em;
-         font-family: 'Times New Roman', Times, serif;
-        }
-        .slide{
-            margin-top: -13em;
-        }
-        .mani8{
-            background-color: white;
-         
-            padding: 10px;
-        }
-        .paragraph22{
-            text-align: center;
-            font-size: 40px;
-            background-color: white;
-            width: 103%;
-            padding: 10px;
-            
-            
-        }
-        .man8{
-            background-color: white;
-            width: 103%;
-        }
-        .p{
-            color: green;
-            }
-            .p1{
-                color:royalblue;
-     }
-    .twenty8{
-    display: block;
-     margin-left:39em ;
-    margin-right: auto;
-     margin-top: -50px;
-    width: 50px;
-    height: 50px;
-    }
-    .gallery{
-    display: flex;
-    margin-top: 20px;
-                
-            }
-    .img{
-        width: 250px;
-        height: 150px;
-        cursor: pointer;
-    }
-    .image{
-        background-color: white;
-    }
-    .endwork{
-    
-    background-color: rgba(0, 0, 0, 0.877);
-        padding: 20px;
-        margin-top: 10em;
-        margin-left: -0.4em;
-        width: 200em;
-    
-    }
-    .paragraphlast{
-        color: grey;
-        font-size: 15px;
-        
-    }
-    .paragraphlast1{
-        color: grey;
-        font-size: 15px;
-        margin-top: -14px;
-    }
-        .img3{
-    width: 20px;
-    height: 20px;
-    }
-    .mani12{
-    
-    height: 170px;
-    
-    }
-    
-    .headinglast{
-        color: white;
-        
-        font-size: 16px;
-        margin-left: 30em;
-       margin-top: -10em;
-    }
-    .headinglast1{
-        color: white;
-        
-        font-size: 16px;
-        margin-left: 50em;
-    margin-top: -35px;  
-    }  
-    .headinglast2{
-        margin-left: 47em;
-     
-    }    
-    
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: rgba(0, 0, 0, 0.844);
+}
+::selection{
+  color: #fff;
+  background: #700505;
+}
+.wrapper{
+  width: 400px;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
+}
+.wrapper header{
+  display: flex;
+  font-size: 21px;
+  font-weight: 800;
+  color: #fdf362;
+  padding: 16px 15px;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+}
+header i{
+  font-size: 0em;
+  cursor: pointer;
+  margin-right: 8px;
+}
+.wrapper.active header i{
+  margin-left: 5px;
+  font-size: 30px;
+}
+.wrapper .input-part{
+  margin: 20px 25px 30px;
+}
+.wrapper.active .input-part{
+  display: none;
+}
+.input-part .info-txt{
+  display: none;
+  font-size: 17px;
+  text-align: center;
+  padding: 12px 10px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.input-part .info-txt.error{
+  color: #721c24;
+  display: block;
+  background: #f8d7da;
+  border: 1px solid #f5c6cb;
+}
+.input-part .info-txt.pending{
+  color: #0c5460;
+  display: block;
+  background: #d1ecf1;
+  border: 1px solid #bee5eb;
+}
+.input-part :where(input, button){
+  width: 100%;
+  height: 55px;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  border-radius: 7px;
+}
+.input-part input{
+  text-align: center;
+  padding: 0 15px;
+  border: 1px solid #ccc;
+}
+.input-part input:is(:focus, :valid){
+  border: 2px solid #43AFFC;
+}
+.input-part input::placeholder{
+  color: #bfbfbf;
+}
+.input-part .separator{
+  height: 1px;
+  width: 100%;
+  margin: 25px 0;
+  background: #ccc;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.separator::before{
+  content: "or";
+  color: #b3b3b3;
+  font-size: 19px;
+  padding: 0 15px;
+  background: #fff;
+}
+.input-part button{
+  color: #fff;
+  cursor: pointer;
+  background: #f3fc43;
+  transition: 0.3s ease;
+}
+.input-part button:hover{
+  background: #1d9ffc;
+}
+
+.wrapper .weather-part{
+  display: none;
+  margin: 30px 0 0;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.wrapper.active .weather-part{
+  display: flex;
+}
+.weather-part img{
+  max-width: 125px;
+}
+.weather-part .temp{
+  display: flex;
+  font-weight: 500;
+  font-size: 72px;
+}
+.weather-part .temp .numb{
+  font-weight: 600;
+}
+.weather-part .temp .deg{
+  font-size: 40px;
+  display: block;
+  margin: 10px 5px 0 0;
+}
+.weather-part .weather{
+  font-size: 21px;
+  text-align: center;
+  margin: -5px 20px 15px;
+}
+.weather-part .location{
+  display: flex;
+  font-size: 19px;
+  padding: 0 20px;
+  text-align: center;
+  margin-bottom: 30px;
+  align-items: flex-start;
+}
+.location i{
+  font-size: 22px;
+  margin: 4px 5px 0 0;
+}
+.weather-part .bottom-details{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+}
+.bottom-details .column{
+  display: flex;
+  width: 100%;
+  padding: 15px 0;
+  align-items: center;
+  justify-content: center;
+}
+.column i{
+  color: #5DBBFF;
+  font-size: 40px;
+}
+.column.humidity{
+  border-left: 1px solid #ccc;
+}
+.column .details{
+  margin-left: 3px;
+}
+.details .temp, .humidity span{
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: -3px;
+}
+.details .temp .deg{
+  margin: 0;
+  font-size: 17px;
+  padding: 0 2px 0 1px;
+}
+.column .details p{
+  font-size: 14px;
+  margin-top: -6px;
+}
+.humidity i{
+  font-size: 37px;
+}
